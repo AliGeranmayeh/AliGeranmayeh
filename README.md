@@ -30,12 +30,13 @@ _____________________________
 <a href="https://www.linkedin.com/in/ali-geranmayeh/" target="_blank">
    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=0072b1&color=black">
 </a>
+   <a href="https://t.me/expensive98" target="_blank">
+   <img src="https://img.shields.io/badge/Telegram-0077B5?style=for-the-badge&logo=telegram&logoColor=0088cc&color=black">
+</a>
 <a href="https://www.instagram.com/expensive1998/" target="_blank">
    <img src="https://img.shields.io/badge/Instagram-0077B5?style=for-the-badge&logo=instagram&logoColor=E4405F&color=black">
 </a>
-  <a href="https://t.me/expensive98" target="_blank">
-   <img src="https://img.shields.io/badge/Telegram-0077B5?style=for-the-badge&logo=telegram&logoColor=0088cc&color=black">
-</a>
+ 
 
 
 
