@@ -17,7 +17,7 @@
 <br/><br/><br/><br/>
 
 <div  align="center">
-<span><img align="center" src="https://github-readme-stats.vercel.app/api?username=expensive77&show_icons=true&theme=tokyonight"  width="400" /></span>
+ <span><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=expensive77&&show_icons=true&theme=tokyonight"  width="400" /></span>
 </span><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=expensive77&theme=tokyonight&hide_border=false"  width="400" /></span>
 </div>
 <br/><br/>
